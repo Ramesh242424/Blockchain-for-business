@@ -1,8 +1,8 @@
 # EX.NO-1
 # CREATING A PRIVATE DATE: BLOCKCHAIN
 ## AIM
-## Name: KAVIBHARATHI K 
-## Reg No: 212224220045
+## Name: RAMESH KRISHNAN S
+## Reg No: 212224220076
 
 ## To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating
 ## and deploying Smart contract.
